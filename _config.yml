@@ -106,8 +106,8 @@ analytics:
 # Site Author
 author:
   name             : "Jack Forest"
-  avatar           : "/docs/assets/images/zuval.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jack의 모든 생각"
+  avatar           : "/assets/images/zuval.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Jack의 생각"
   location         : "Republic of Korea,Seoul"
   email            : "j4estree@gmail.com"
   links:
