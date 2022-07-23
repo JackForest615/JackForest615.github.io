@@ -1,10 +1,10 @@
-
 ---
 published: true
 layout: single
-title:  "자유란"
+title: "자유란"
 ---
-#jack의 자유
+
+#내가 생각한 자유의 정의
 
 자유란 무엇인가
 자유란 내 뜻대로 살 수 있는것이다
